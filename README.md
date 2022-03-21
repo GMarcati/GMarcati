@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋👽, I'm Gonzalo Marcati</h1>
 <h3 align="center">A passionate software developer from Argentina</h3>
 <div align="center">
+  <!-- 
   - 🌱 I’m currently learning <b>Javascript, Typescript, React</b>
+  -->
+  - 🌱 I’m currently learning <b>.NET, C#, Javascript</b>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
