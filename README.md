@@ -4,7 +4,7 @@
   <!-- 
   - 🌱 I’m currently learning <b>Javascript, Typescript, React</b>
   -->
-  - 🌱 I’m currently learning <b>.NET, C#, Javascript</b>
+  - 🌱 I’m currently learning <b>.NET, C#, Javascript, React</b>
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
